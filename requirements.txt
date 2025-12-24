@@ -1,0 +1,6 @@
+echo "boto3
+pandas
+geopandas
+rasterio
+shapely
+psycopg2-binary" > requirements.txt
