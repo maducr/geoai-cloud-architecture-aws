@@ -8,8 +8,8 @@ A arquitetura foi desenhada para suportar fluxos de trabalho como monitoramento 
 ---
 
 ## 🏗️ Diagrama da Arquitetura
-![GeoAI Architecture Diagram](docs/nome-do-seu-arquivo.png)
-*Diagrama desenvolvido no Diagrams.net seguindo os padrões oficiais da AWS 2025.*
+![GeoAI Architecture Diagram](docs/geoai-cloud-architecture-aws.drawio.png)
+*Diagrama desenvolvido no Diagrams.net seguindo os padrões oficiais da AWS.*
 
 ---
 
@@ -35,13 +35,6 @@ A arquitetura foi desenhada para suportar fluxos de trabalho como monitoramento 
 
 ---
 
-## 🚀 Próximos Passos
-- [ ] Implementação de Infraestrutura como Código (IaC) utilizando Terraform.
-- [ ] Automação de pipelines utilizando AWS Lambda (Serverless).
-- [ ] Integração com ferramentas de visualização como Power BI ou dashboards em Streamlit.
-
----
-
 ## 👤 Autora
-**[Seu Nome]** - Estudante de Sistemas de Informação & entusiasta de IA e Dados Geoespaciais.
-[Link para o seu LinkedIn]
+**Maria Eduarda Rodrigues** - Analista de Dados | Geoprocessamento & Modelagem de Dados.
+www.linkedin.com/in/maducr
