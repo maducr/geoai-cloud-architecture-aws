@@ -1,9 +1,7 @@
 # GeoAI Cloud Architecture: Pipeline de Processamento Geoespacial na AWS
 
 ## 📌 Sobre o Projeto
-Este projeto apresenta uma arquitetura de nuvem robusta e escalável desenvolvida para a ingestão, processamento e armazenamento de dados geoespaciais (GeoAI) utilizando os serviços da **Amazon Web Services (AWS)**. O objetivo é demonstrar o domínio dos fundamentos de Cloud Computing, aplicando boas práticas de segurança, alta disponibilidade e isolamento de rede.
-
-A arquitetura foi desenhada para suportar fluxos de trabalho como monitoramento ambiental, análise de imagens de satélite e inteligência geográfica, unindo meu background em **Sistemas de Informação** e experiência no setor público com tecnologias de ponta em Nuvem.
+Este projeto é uma **Prova de Conceito (PoC)** desenvolvida para validar e aplicar de forma prática os princípios fundamentais de Cloud Computing. A arquitetura foca na escalabilidade e segurança de pipelines de **GeoAI**, garantindo que conceitos de alta disponibilidade e isolamento de rede sejam implementados seguindo os padrões de excelência da AWS.
 
 ---
 
@@ -13,7 +11,7 @@ A arquitetura foi desenhada para suportar fluxos de trabalho como monitoramento 
 
 ---
 
-## 🛠️ Componentes e Definições (O "Porquê" Técnico)
+## 🛠️ Componentes e Definições
 
 ### 1. Ingestão e Armazenamento (Data Lake)
 * **Amazon S3**: Utilizado como o ponto de entrada para imagens de satélite brutos e arquivos vetoriais (GeoJSON, Shapefiles) devido à sua alta durabilidade e baixo custo.
@@ -37,4 +35,4 @@ A arquitetura foi desenhada para suportar fluxos de trabalho como monitoramento 
 
 ## 👤 Autora
 **Maria Eduarda Rodrigues** - Analista de Dados | Geoprocessamento & Modelagem de Dados.
-www.linkedin.com/in/maducr
+[LinkedIn](https://www.linkedin.com/in/maducr)
